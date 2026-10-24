@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:https://portfoliobes.netlify.app/sitemap.xml
